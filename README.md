@@ -44,9 +44,9 @@ This consistency across independent statistical and machine learning methods is 
 - Accidents peak at night, with the count of minor, major, and fatal incidents all highest in the night period compared to morning, afternoon, or evening.
 - The correlation heatmap confirms the numeric trip details barely matter — `hour`, `lanes`, `traffic_signal`, `vehicles_involved`, `casualties`, and `is_peak_hour` all correlate with `risk_score` at under 0.015 in magnitude.
 
-![alt text]("images\accident_severity_distribution.png")
-![alt text]("images\major_causes.png")
-![alt text]("images\heatmap.png")
+<img width="887" height="585" alt="image" src="https://github.com/user-attachments/assets/0ff3a185-5f85-4fd8-a085-182b08388fa0" />
+<img width="1027" height="665" alt="image" src="https://github.com/user-attachments/assets/34245e97-9543-436f-80d0-0ccf245165a3" />
+<img width="921" height="601" alt="image" src="https://github.com/user-attachments/assets/70e3f37a-13d1-4503-9e34-9487d51b544a" />
 
 ## Statistical Testing
 
