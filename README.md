@@ -101,6 +101,9 @@ Three appropriate tests were used depending on variable type, rather than defaul
 | traffic_density | 0.125 |
 | is_weekend | 0.032 |
 
+<img width="842" height="437" alt="image" src="https://github.com/user-attachments/assets/031edf29-6f1b-449a-88bf-be1d9d00283d" />
+
+
 ## Dashboard
 
 An interactive 4-page Power BI dashboard (`visualization_roads_accident.pbix`) covering:
